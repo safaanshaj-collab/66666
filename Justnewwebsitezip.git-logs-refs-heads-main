@@ -1,0 +1,25 @@
+0000000000000000000000000000000000000000 a00f554080d43582275d1e9b3d5cd53632c3a4e4 Replit Agent <agent@replit.com> 1780493515 +0000	commit (initial): Initial commit
+a00f554080d43582275d1e9b3d5cd53632c3a4e4 4ef38b2784d0bdca4357cbef514c4b4bf67fc3e5 Replit Agent <agent@replit.com> 1780493972 +0000	commit: Add WebSocket support to the game server for multiplayer functionality
+4ef38b2784d0bdca4357cbef514c4b4bf67fc3e5 f409c7f3543be82c8abff735fcd896582dc93cdd Replit Agent <agent@replit.com> 1780494103 +0000	commit: Saved progress at the end of the loop
+f409c7f3543be82c8abff735fcd896582dc93cdd 90a01306fc27494e53080e798f44f714ba5c435e Replit Agent <agent@replit.com> 1780494570 +0000	commit: Published your App
+90a01306fc27494e53080e798f44f714ba5c435e a6deeefbe651af35718be8e254aade3fb6e9631c Replit Agent <agent@replit.com> 1780494846 +0000	commit: Provide a zip file containing the complete website
+a6deeefbe651af35718be8e254aade3fb6e9631c 90914a3a4e45229d566b19c9514ea03e24b3da24 Replit Agent <agent@replit.com> 1780494959 +0000	commit: Update website description to credit Safaan
+90914a3a4e45229d566b19c9514ea03e24b3da24 f95f4491748ea0d3a1b44d365d0dfb653979cba9 Replit Agent <agent@replit.com> 1780495025 +0000	commit: Add a footer crediting the creator to all pages
+f95f4491748ea0d3a1b44d365d0dfb653979cba9 dfbf13a8dc8c022996f6b402ad7463e815b7992f Replit Agent <agent@replit.com> 1780495223 +0000	commit: Add a shareable invite link and auto-join functionality to the game
+dfbf13a8dc8c022996f6b402ad7463e815b7992f 453dc4bbfff8364ed7ab7b190063d43c45637d4a Replit Agent <agent@replit.com> 1780495301 +0000	commit: Update share button text to Tictactoejoin
+453dc4bbfff8364ed7ab7b190063d43c45637d4a d144fb3205bfa441830520e548025ae88aec699c Replit Agent <agent@replit.com> 1780495406 +0000	commit: Update share link to point to new domain for joining
+d144fb3205bfa441830520e548025ae88aec699c ea79769ff7be10292d748529de47d914b038c280 Replit Agent <agent@replit.com> 1780495538 +0000	commit: Published your App
+ea79769ff7be10292d748529de47d914b038c280 4f58a2ad260c5ff7f9d1f09a9c24d291c01e2c03 Replit Agent <agent@replit.com> 1780495848 +0000	commit: Update website zip file with all recent changes
+4f58a2ad260c5ff7f9d1f09a9c24d291c01e2c03 926f6ab8368d1fdbd441842e925e3f9f98459cd3 Replit Agent <agent@replit.com> 1780537665 +0000	commit: Serve the React application at the root URL
+926f6ab8368d1fdbd441842e925e3f9f98459cd3 2f2ea65f0fc89aaf5e3eeced19149a6a5e881379 Replit Agent <agent@replit.com> 1780537801 +0000	commit: Published your App
+2f2ea65f0fc89aaf5e3eeced19149a6a5e881379 8dcbe58a0ff75f70a80403d3150bb0f2749b9ca8 Replit Agent <agent@replit.com> 1780537983 +0000	commit: Update website to keep users logged in after refreshing
+8dcbe58a0ff75f70a80403d3150bb0f2749b9ca8 2609a982b6f0c562f14add3f2bf2f4da41c3dd74 Replit Agent <agent@replit.com> 1781885979 +0000	commit: Add user profile creation after Google sign-in
+2609a982b6f0c562f14add3f2bf2f4da41c3dd74 6d5b2db161a8ad663c73f2d93267607cc8e26e89 Replit Agent <agent@replit.com> 1781886384 +0000	commit: Add profile pictures and a friends system to the multiplayer game
+6d5b2db161a8ad663c73f2d93267607cc8e26e89 f22b38ccc3fc823b4e395b79c664db16f9d282fa Replit Agent <agent@replit.com> 1781887221 +0000	commit: Published your App
+f22b38ccc3fc823b4e395b79c664db16f9d282fa 5cf0c68d70a171eae0128298b3365a36ef2ed12f Replit Agent <agent@replit.com> 1781887611 +0000	commit: Add real-time notifications for new friend requests
+5cf0c68d70a171eae0128298b3365a36ef2ed12f 907b9a238672070db3470e5e73289e8c8cb829ce Replit Agent <agent@replit.com> 1781887860 +0000	commit: Add win/loss/draw tracking to player statistics and display
+907b9a238672070db3470e5e73289e8c8cb829ce 90f8d79209b168bafe1ba463248c918d7100e073 Replit Agent <agent@replit.com> 1781887975 +0000	commit: Add a leaderboard to view top players and their statistics
+90f8d79209b168bafe1ba463248c918d7100e073 d5683994ebccca40a4a72b5269d6d637d7cf018f Replit Agent <agent@replit.com> 1781888140 +0000	commit: Add personal profile card and button to view user statistics
+d5683994ebccca40a4a72b5269d6d637d7cf018f 70344ed81d3b969c91859e9e6003f5df117feba4 Replit Agent <agent@replit.com> 1781888532 +0000	commit: Add a system for challenging friends to games and joining rooms
+70344ed81d3b969c91859e9e6003f5df117feba4 cdd605a50a645d31d3c34c10cd4491bc84bd3832 Replit Agent <agent@replit.com> 1781888823 +0000	commit: Add option to add friends from in-game opponent profiles
+cdd605a50a645d31d3c34c10cd4491bc84bd3832 ad2ec7543473460dbdcc46641b7d9cd99ab6677c Replit Agent <agent@replit.com> 1781888919 +0000	commit: Published your App
